@@ -56,13 +56,3 @@ Gemini API (Object Detection / Vision)
 Google Maps API (Navigation)
 
 Text-to-Speech (TTS)
-
-Hardware & Integration
-
-Bluetooth
-
-Dual 360° Cameras
-
-Embedded Speakers
-
-Wearable Frame / IoT Microcontroller (e.g., Raspberry Pi)
